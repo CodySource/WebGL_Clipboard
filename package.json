@@ -1,0 +1,13 @@
+{
+  "name": "com.codysource.webgl_clipboard",
+  "version": "1.0.0",
+  "displayName": "WebGL Clipboard",
+  "description": "This package enables copying text to the clipboard via javascript.",
+  "unity": "2020.3",
+  "unityRelease": "15f2",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Cody Source"
+  }
+}
